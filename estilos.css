@@ -1,0 +1,51 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+
+
+.body {
+    background-color: #677BDC; padding: 150px; font-family: Arial;
+    
+}
+
+.login-box {
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 90%;
+    max-width: 400px;
+    padding: 4.5em 3em;
+    border-radius:10px;
+    box-shadow: 0 5px 10px -5px rgba(0 0 0 / 50%);
+    text-align: center;
+}
+
+.login-box form h3 {
+    font-size: 2rem;
+    margin-bottom: .5em;
+    --color: #706c6c;
+}
+
+.login-box form label {
+    color: #706c6c;
+    cursor: pointer;
+    position: relative;
+    
+    
+}
+
+.login-box form input {
+    width: 100%;
+    background: none;
+    color: #706c6c;
+    font-size: 1rem;
+    padding: .6em .3em;
+    border: none;
+    outline: ;
+    border-bottom: 1px var(--color);
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+
